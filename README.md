@@ -5,4 +5,4 @@ This portfolio is containing HTML, CSS, and Javascript files that will allow the
 
 ![Portfolio Site](./assets/screenshot.png)
 
-[password-generator]
+[password-generator](https://bennsantos20.github.io/password-generator/)
